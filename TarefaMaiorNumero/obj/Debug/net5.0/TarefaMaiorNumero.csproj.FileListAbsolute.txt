@@ -1,0 +1,16 @@
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\bin\Debug\net5.0\TarefaMaiorNumero.exe
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\bin\Debug\net5.0\TarefaMaiorNumero.deps.json
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\bin\Debug\net5.0\TarefaMaiorNumero.runtimeconfig.json
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\bin\Debug\net5.0\TarefaMaiorNumero.runtimeconfig.dev.json
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\bin\Debug\net5.0\TarefaMaiorNumero.dll
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\bin\Debug\net5.0\ref\TarefaMaiorNumero.dll
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\bin\Debug\net5.0\TarefaMaiorNumero.pdb
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\obj\Debug\net5.0\TarefaMaiorNumero.csproj.AssemblyReference.cache
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\obj\Debug\net5.0\TarefaMaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\obj\Debug\net5.0\TarefaMaiorNumero.AssemblyInfoInputs.cache
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\obj\Debug\net5.0\TarefaMaiorNumero.AssemblyInfo.cs
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\obj\Debug\net5.0\TarefaMaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\obj\Debug\net5.0\TarefaMaiorNumero.dll
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\obj\Debug\net5.0\ref\TarefaMaiorNumero.dll
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\obj\Debug\net5.0\TarefaMaiorNumero.pdb
+C:\Users\nick6\source\repos\TarefaMaiorNumero\TarefaMaiorNumero\obj\Debug\net5.0\TarefaMaiorNumero.genruntimeconfig.cache
